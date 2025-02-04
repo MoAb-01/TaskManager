@@ -1,0 +1,14 @@
+c:\Users\UHD\Desktop\TaskManager\bin\Debug\net9.0\TaskManager.exe
+C:\Users\UHD\Desktop\TaskManager\bin\Debug\net9.0\TaskManager.deps.json
+C:\Users\UHD\Desktop\TaskManager\bin\Debug\net9.0\TaskManager.runtimeconfig.json
+c:\Users\UHD\Desktop\TaskManager\bin\Debug\net9.0\TaskManager.dll
+c:\Users\UHD\Desktop\TaskManager\bin\Debug\net9.0\TaskManager.pdb
+c:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\TaskManager.AssemblyInfoInputs.cache
+c:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\TaskManager.AssemblyInfo.cs
+c:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\TaskManager.csproj.CoreCompileInputs.cache
+c:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\TaskManager.dll
+c:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\refint\TaskManager.dll
+c:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\TaskManager.pdb
+C:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\TaskManager.genruntimeconfig.cache
+C:\Users\UHD\Desktop\TaskManager\obj\Debug\net9.0\ref\TaskManager.dll
