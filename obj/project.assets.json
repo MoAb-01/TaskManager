@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UHD\\Desktop\\Todo list porject\\Todo list porject.csproj",
-      "projectName": "Todo list porject",
-      "projectPath": "C:\\Users\\UHD\\Desktop\\Todo list porject\\Todo list porject.csproj",
+      "projectUniqueName": "C:\\Users\\UHD\\Desktop\\TaskManager\\TaskManager.csproj",
+      "projectName": "TaskManager",
+      "projectPath": "C:\\Users\\UHD\\Desktop\\TaskManager\\TaskManager.csproj",
       "packagesPath": "C:\\Users\\UHD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UHD\\Desktop\\Todo list porject\\obj\\",
+      "outputPath": "C:\\Users\\UHD\\Desktop\\TaskManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UHD\\AppData\\Roaming\\NuGet\\NuGet.Config",

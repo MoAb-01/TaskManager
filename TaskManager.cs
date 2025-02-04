@@ -4,7 +4,7 @@ public class TaskManager
     List<Task> tasklist= new List<Task>(); //created an object from the previous class and exploit methods to it
     public List<Task> Tasklist //getters and setters does Return to the world or take anything as well only each variable interactable
     {
-        get {return Tasklist;} //shows the field variable to the world
+        get {return tasklist;} //shows the field variable to the world
         set {tasklist=value;} //saves the value in the field vairable
 
     }
