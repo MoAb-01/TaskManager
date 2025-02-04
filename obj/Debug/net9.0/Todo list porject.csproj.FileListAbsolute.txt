@@ -1,0 +1,14 @@
+c:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\Todo list porject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\Todo list porject.AssemblyInfoInputs.cache
+c:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\Todo list porject.AssemblyInfo.cs
+c:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\Todo list porject.csproj.CoreCompileInputs.cache
+c:\Users\UHD\Desktop\Todo list porject\bin\Debug\net9.0\Todo list porject.exe
+C:\Users\UHD\Desktop\Todo list porject\bin\Debug\net9.0\Todo list porject.deps.json
+C:\Users\UHD\Desktop\Todo list porject\bin\Debug\net9.0\Todo list porject.runtimeconfig.json
+c:\Users\UHD\Desktop\Todo list porject\bin\Debug\net9.0\Todo list porject.dll
+c:\Users\UHD\Desktop\Todo list porject\bin\Debug\net9.0\Todo list porject.pdb
+c:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\Todo list porject.dll
+c:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\refint\Todo list porject.dll
+c:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\Todo list porject.pdb
+C:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\Todo list porject.genruntimeconfig.cache
+C:\Users\UHD\Desktop\Todo list porject\obj\Debug\net9.0\ref\Todo list porject.dll
